@@ -69,7 +69,7 @@ class _NetworkingScreenState extends State<NetworkingScreen> {
           body: Center(
             child: Column(
                 children: [
-                  SizedBox(height: 20,),
+                  const SizedBox(height: 20,),
                   Row(
                     children: [
 
